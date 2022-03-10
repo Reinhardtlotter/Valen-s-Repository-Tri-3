@@ -1,6 +1,37 @@
-# Valen-s-Repository-Tri-3
+## Welcome to GitHub Pages
 
-How tech can Impact our lives
-Tech can improve lives as it provides acces to information that can help our day to day lives. An example of this is young adults can use technology to learn how to cook. This can help them live a more healthy lifestyle. 
-Tech also impacts many lives by providing well paying jobs in computer science which has high demand. It allows for many people to provide for their familys.
-Tech also impacts us by allowing us to spread information faster so we can get news and stay informed. This happens through text and calling on our mobile deviced. A time this is extremly helpful is when you need to call for help you can call from wherever you are on your cellphone.
+You can use the [editor on GitHub](https://github.com/ValenReynolds/Valen-s-Repository-Tri-3/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ValenReynolds/Valen-s-Repository-Tri-3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
