@@ -38,14 +38,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### 5.1/2 Notes
 
-Corrections for Calling Procedures Quiz
-Q1 I put A and C. It was C and D. I selected A because procedural abstraction helps hide details. So I thought it would be easier to understand how to prevent stealing intellectual property of other programmers. D is correct because procedures that are created to solve subproblems of a larger problem are called by name.
-Q4 The answer I chose B is comparing the score to the amount it should be increased by. But it should be compared to the limit like in the the correct answer C
-Q5 By code reuse in C I thought it meant stealing code but it means it's more convenient. But I should have chose the correct answer B because it doesn’t make code run faster
-5.1
-The wii came before the phone
-
-
 Computing innovation can be beneficial and harmful
 We get dopamine feedback loops from the internet
 Effects:
@@ -72,7 +64,6 @@ Filtered information
 Raises global issues of spread of information
 
 Being on either side isn’t bad but we want to be on a even playing field
-5.3
 Computing bias
 Netflix
 Explicit Data
