@@ -92,7 +92,21 @@ Questions to be asked
 Enhancing or intentionally excluding
 Intentionally Hateful?
 
+### Questions
+# TPT Q&A
+## TPT 5.1
+1. Come up with three of your own Beneficial and corresponding Harmful Effects of Computing
+- three beneficial are it helps increase productivity, Keeps you connected, and can help make money
+- three negatives are it can cause an unhealthy habit, cause great amount of stress, and can cause an overall unhealthy lifestyle
+2. Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?
+- The use of computing can be related to dopamine due to the addictions created by many factors, an example is gaming, but this is also not all true since computing has created many positives for others. For parents now a days, technology is mostly seen as a negative. Technology has not affected me personally in my lifestyle but for others it may have.
+## TPT 5.2
+1. How does someone empower themself in a digital world?
+- Someone is able to empower themselves by gaining fame on social media, start up a business online that has become worldwide like amazon, and even starting an organization to cause positivity in the world
+2. How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+
 ### Create Task 
 https://github.com/YashShah138/Team-MicrosoftTechSupport/wiki/PBL-Create-Task-Dry-Run#valen---beach-guessing-game
+
 
 
