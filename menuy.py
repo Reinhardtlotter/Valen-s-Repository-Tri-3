@@ -5,6 +5,8 @@
 import ship
 import swap
 import tree
+from algorithms import factorial
+from algorithms import primes
 
 # Main list of [Prompts, Actions]
 # One style is supported to execute abstracted logic (using exec is not secure)
@@ -13,6 +15,8 @@ import tree
 main_menu = [
     ["Swap", swap.swap],
     ["Tree", tree.tree],
+    ["Factorial", "algortithms/factorial.py"],
+    ["Primes", "algortithms/primes.py"],
 ]
 
 patterns_sub_menu = [
