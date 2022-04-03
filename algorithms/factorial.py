@@ -2,6 +2,7 @@
 # Python code to demonstrate naive method
 # to compute factorial
 
+a=input("Where would you like it to? ")
 class Factor:
 
     def factorial(n):
@@ -16,6 +17,6 @@ class Factor:
     # Test Code
 if __name__ == "__main__":
     '''Value for testing'''
-    n = 20
+    n = int(a)+1
     for i in range(n):
         print("Factor (",i,") = ", Factor.factorial(i))
